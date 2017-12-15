@@ -1,7 +1,5 @@
 h1{
-  background-image: url("https://image.ibb.co/gkm2s6/e1b02ec32784c9b4bb6fa8971a67fbaf.png");
-  background-position: center top;
-  background-size: cover;
+ 
   padding: 250px 0;
   margin: 30px;
   font-size:48px;
@@ -11,6 +9,10 @@ h1{
 h1::after {
   content: "";
   background: url("https://image.ibb.co/gkm2s6/e1b02ec32784c9b4bb6fa8971a67fbaf.png");
+  background-position: center top;
+  background-size: cover;
+  padding: 250px 0;
+  margin: 30px;
   opacity: 0.5;
   top: 0;
   left: 0;
