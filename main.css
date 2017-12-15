@@ -17,7 +17,14 @@ ul
 
 li
 {
-display:inline;
+  display:inline;
+  float:left;
+}
+
+a
+{
+  display:block;
+  width:60px;
 }
 
 .welcome{
